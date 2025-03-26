@@ -1,10 +1,8 @@
-## Hi there 👋
+<h1 align="left">Hi there! I'm Th3Beta 👋</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Th3Beta/Th3Beta/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Th3Beta/Th3Beta/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Th3Beta/Th3Beta/output/pacman-contribution-graph.svg">
-</picture>
+###
+
+<p align="left">🚀 About Me<br><br>I'm a passionate web developer currently studying Higher Degree in Multiplatform Application Development. I love building interactive and visually appealing websites using:</p>
 
 ###
 
@@ -29,10 +27,30 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Th3Beta/Th3Beta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Th3Beta/Th3Beta/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Th3Beta/Th3Beta/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h3 align="left">🎵 What I'm Listening To</h3>
+
+###
+
+<p align="left">I enjoy coding with some great beats in the background. Here's what I've been vibing to lately:</p>
+
+###
+
 <div align="center">
-  <a href="(https://open.spotify.com/user/31j5rlt5zr5amjn4c4njtmksma3i)">
-    <img src="(https://spotify-recently-played-readme.vercel.app/api?user=31j5rlt5zr5amjn4c4njtmksma3i&count={count})&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31j5rlt5zr5amjn4c4njtmksma3i">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j5rlt5zr5amjn4c4njtmksma3i&count=8&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<p align="left">🎯 Always striving to learn, build, and grow! Feel free to connect with me. 🚀</p>
 
 ###
